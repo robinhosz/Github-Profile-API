@@ -38,3 +38,5 @@ $ yarn
 # Iniciar o projeto (start the project)
 $ yarn start
 ```
+
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
