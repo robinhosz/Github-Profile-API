@@ -40,3 +40,7 @@ $ yarn start
 ```
 
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
+
+O app também está disponível na web no heroku
+
+<br>
