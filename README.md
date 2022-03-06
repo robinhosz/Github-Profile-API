@@ -16,3 +16,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 ## 🚀 Como executar (How to execute)
+
+Clone o projeto e acesse a pasta do mesmo.
