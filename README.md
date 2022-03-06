@@ -12,3 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Styled-components](https://styled-components.com/)
 - [Axios](https://axios-http.com/)
+
+<br>
+
+## 🚀 Como executar (How to execute)
