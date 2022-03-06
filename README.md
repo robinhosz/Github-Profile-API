@@ -26,12 +26,12 @@ $ cd Github-Profile-API
 
 Para iniciá-lo, siga os passos abaixo:
 
-```
+```bash
 # Instalar o yarn (install yarn)
 $ npm install -g yarn
 ```
 
-```bash
+```
 # Instalar as dependências (install dependencies)
 $ yarn
 
