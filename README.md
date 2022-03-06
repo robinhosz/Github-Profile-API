@@ -44,3 +44,12 @@ O app estará disponível no seu browser pelo endereço **http://localhost:3000.
 O app também está disponível na **web** pela nuvem do **heroku!** [Clique aqui para visualizar](https://deploy-github-profile.herokuapp.com/)
 
 <br>
+
+## 🔎 Sobre o projeto (About the project)
+O projeto consiste em um sistema que consome a API do github, recuperando informações de usuário e seus repositórios.
+Este projeto foi feito com intuito de treinar algumas skills em CSS e JS.
+
+The project consists of a system that consumes the github API, getting information about user and your repositories
+This project was made in order to train some skills in CSS and JS.
+
+<br>
