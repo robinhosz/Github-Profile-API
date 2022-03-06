@@ -33,7 +33,7 @@ $ npm install -g yarn
 ```bash
 # Instalar as dependências (install dependencies)
 $ yarn
-
+```bash
 # Iniciar o projeto (start the project)
 $ yarn start
 ```
