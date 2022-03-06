@@ -30,7 +30,6 @@ Para iniciá-lo, siga os passos abaixo:
 # Instalar o yarn (install yarn)
 $ npm install -g yarn
 ```
-
 ```
 # Instalar as dependências (install dependencies)
 $ yarn
