@@ -23,3 +23,6 @@ Clone o projeto e acesse a pasta do mesmo.
 $ git https://github.com/robinhosz/Github-Profile-API
 $ cd Github-Profile-API
 ```
+
+Para iniciá-lo, siga os passos abaixo:
+
