@@ -1,9 +1,11 @@
 <h1 align="center"> 
   <strong> :octocat: Github Profile API :octocat:</strong>
 </h1>
+<br><br>
 
 ![screen-capture](https://user-images.githubusercontent.com/82779533/156910042-96d410b1-3cec-4dea-ba25-3956b1444299.gif)
 
+<br>
 
 ## 🧪 Tecnologias (Technologies)
 
