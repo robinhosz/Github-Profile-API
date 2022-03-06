@@ -41,6 +41,6 @@ $ yarn start
 
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-O app também está disponível na web pela nuvem do heroku
+O app também está disponível na web pela nuvem do heroku deploy-github-profile.herokuapp.com/
 
 <br>
