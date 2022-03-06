@@ -18,3 +18,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🚀 Como executar (How to execute)
 
 Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git https://github.com/GuilhermeFT/github-search
+$ cd github-search
+```
