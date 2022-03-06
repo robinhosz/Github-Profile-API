@@ -20,6 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git https://github.com/GuilhermeFT/github-search
+$ git https://github.com/robinhosz/Github-Profile-API
 $ cd github-search
 ```
