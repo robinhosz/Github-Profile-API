@@ -54,5 +54,5 @@ Este projeto foi feito com intuito de saber mais sobre a **API do Github.**
 The project consists of a system that consumes the **github API**, getting information about user and your repositories
 This project was made in order to learn more about the **Github API.**
 
-<br> <br>
+<br> 
 
